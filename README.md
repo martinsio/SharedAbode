@@ -1,7 +1,20 @@
+## (ENG)Table of Contents | (ESP) Tabla de contenidos
+
+- [Abstract (ENG)](#eng-abstract)
+- [Technical Data](#technical-data)
+- [Prototype](#prototype)
+- [License](#license)
+
+- [Resumen del trabajo (ESP)](#esp-resumen-del-trabajo)
+- [Ficha técnica](#ficha-técnica)
+- [Prototipo](#prototipo)
+- [Licencia](#licencia)
+
+---
+
 ![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/front.png?raw=true)
 
-## (ENG)
-### Abstract
+## Abstract (ENG)
 
 The following Final Degree Project aims to design a real estate and home management application that strives to provide a comprehensive and tailored solution to users' needs, including tools for searching and managing rental-shared properties, in addition to task and expense-sharing management.
 
@@ -17,14 +30,15 @@ This document encompasses the various complexities and challenges inherent in a 
 - **Language:** Spanish
 - **Keywords:** Housing management, shared housing, User-Centered Design (UCD)
 
+### Prototype
+The high-fidelity prototype can be accessed through the following link: [Prototype Link](https://xd.adobe.com/view/a6405850-1cef-4264-88f8-492cf446b4b9-f313/)
+
 ### License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 Spain License.](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
 
 ![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/license.png?raw=true)
 
-
-## (ESP)
-### Resumen del trabajo
+## Resumen del trabajo (ESP)
 
 El siguiente Trabajo Final de Grado tiene como objetivo el diseño de una aplicación de gestión inmobiliaria y del hogar, que busca ofrecer una solución integral y adaptada a las necesidades de los usuarios, incluyendo herramientas de búsqueda y gestión de compañeros de arrendamiento e inmuebles, así como de gestión de tareas y gastos compartidos.
 
@@ -40,8 +54,11 @@ En este documento, quedan plasmadas las diferentes dificultades y retos que pres
 - **Idioma del trabajo:** Castellano
 - **Palabras clave:** Gestión de vivienda, vivienda compartida, Diseño Centrado en Usuario (DCU)
 
+### Prototipo
+El prototipo de alta fidelidad es accesible a través del siguiente enlace: [Enlace al Prototipo](https://xd.adobe.com/view/a6405850-1cef-4264-88f8-492cf446b4b9-f313/)
+
 ### Licencia
-Esta obra está sujeta a una licencia de [Reconocimiento-NoComercial-SinObraDerivada 3.0 España de Creative Commons.](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
+Esta obra está sujeta a una licencia [Reconocimiento-NoComercial-SinObraDerivada 3.0 España de Creative Commons.](https://creativecommons.org/licenses/by-nc-nd/3.0/es/)
 
 ![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/license.png?raw=true)
 
