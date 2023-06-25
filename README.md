@@ -7,7 +7,7 @@
 
 
 ## (ESP) Tabla de contenidos
-- [Banner](#esp)
+- [Folleto](#esp)
 - [Resumen del trabajo](#resumen-del-trabajo)
 - [Ficha técnica](#ficha-técnica)
 - [Prototipo](#prototipo)
