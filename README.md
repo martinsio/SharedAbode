@@ -1,20 +1,23 @@
-## (ENG)Table of Contents | (ESP) Tabla de contenidos
-
-- [Abstract (ENG)](#eng-abstract)
+## (ENG)Table of Contents
+- [Banner](#eng)
+- [Abstract](#abstract)
 - [Technical Data](#technical-data)
 - [Prototype](#prototype)
 - [License](#license)
 
-- [Resumen del trabajo (ESP)](#esp-resumen-del-trabajo)
+
+## (ESP) Tabla de contenidos
+- [Banner](#esp)
+- [Resumen del trabajo](#resumen-del-trabajo)
 - [Ficha técnica](#ficha-técnica)
 - [Prototipo](#prototipo)
 - [Licencia](#licencia)
 
 ---
+## (ENG)
+![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/front_eng.png?raw=true)
 
-![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/front.png?raw=true)
-
-## Abstract (ENG)
+## Abstract
 
 The following Final Degree Project aims to design a real estate and home management application that strives to provide a comprehensive and tailored solution to users' needs, including tools for searching and managing rental-shared properties, in addition to task and expense-sharing management.
 
@@ -38,7 +41,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/license.png?raw=true)
 
-## Resumen del trabajo (ESP)
+## (ESP)
+![N|Solid](https://github.com/martinsio/SharedAbode/blob/main/Slides/front.png?raw=true)
+
+## Resumen del trabajo
 
 El siguiente Trabajo Final de Grado tiene como objetivo el diseño de una aplicación de gestión inmobiliaria y del hogar, que busca ofrecer una solución integral y adaptada a las necesidades de los usuarios, incluyendo herramientas de búsqueda y gestión de compañeros de arrendamiento e inmuebles, así como de gestión de tareas y gastos compartidos.
 
